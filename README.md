@@ -13,7 +13,23 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## TabBar FlutLab - Flutter Online IDE
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
+-  https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+ 
+## links de referencia
+- https://api.flutter.dev/flutter/material/Icons-class.html
+- https://codesinsider.com/flutter-tabbar-tabbarview-example-tutorial/?expand_article=1
+- https://blog.logrocket.com/flutter-tabbar-a-complete-tutorial-with-examples/
+## imagenes
+- ![image](https://github.com/BarriosRosalesJosue465/p11_TabBar/assets/143548449/d0820454-4ce7-4934-b1f0-b5fe7c3d1ef4)
+- ![image](https://github.com/BarriosRosalesJosue465/p11_TabBar/assets/143548449/ebc63b63-df3d-4eb3-9e23-26ea354212de)
+- ![image](https://github.com/BarriosRosalesJosue465/p11_TabBar/assets/143548449/904a399a-264b-42df-b862-89425826ccdc)
+- ![image](https://github.com/BarriosRosalesJosue465/p11_TabBar/assets/143548449/19d615b6-0460-49b3-8d94-68be1060d364)
+- ![image](https://github.com/BarriosRosalesJosue465/p11_TabBar/assets/143548449/4e4b9678-d185-422a-82a0-af01efa38d03)
+
+
+
+
